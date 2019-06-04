@@ -1,0 +1,9 @@
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\bin\Debug\KNSB Schaatssprong Systeem.exe
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\bin\Debug\KNSB Schaatssprong Systeem.pdb
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB Schaatssprong Systeem.csprojAssemblyReference.cache
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB_Schaatssprong_Systeem.Form1.resources
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB_Schaatssprong_Systeem.Properties.Resources.resources
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB Schaatssprong Systeem.csproj.GenerateResource.cache
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB Schaatssprong Systeem.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB Schaatssprong Systeem.exe
+C:\Users\Bart\Desktop\TODSS\Systeem\KNSB Schaatssprong Systeem\KNSB Schaatssprong Systeem\obj\Debug\KNSB Schaatssprong Systeem.pdb
